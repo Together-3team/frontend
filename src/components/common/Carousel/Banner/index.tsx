@@ -29,7 +29,7 @@ export default function BannerCarousel() {
       <div className={styles.carousel}>
         {BANNER_IMAGES.map((item, index) => (
           <div key={index} className={styles.slide}>
-            <Image src={item.src} alt={item.alt} fill />
+            <Image className={styles.img} src={item.src} alt={item.alt} fill />
           </div>
         ))}
       </div>

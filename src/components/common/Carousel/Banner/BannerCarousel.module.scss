@@ -28,5 +28,10 @@
     position: relative;
     flex: 0 0 100%;
     min-width: 0;
+    overflow: hidden;
+  }
+
+  .img {
+    object-fit: cover;
   }
 }
