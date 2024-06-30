@@ -1,3 +1,4 @@
+import { SyntheticEvent } from 'react';
 import Image from 'next/image';
 import useEmblaCarousel from 'embla-carousel-react';
 import Autoplay from 'embla-carousel-autoplay';
@@ -10,7 +11,7 @@ import ShareButton from '@/components/common/Button/Share';
 import Mascot from '@/assets/svgs/mascot-share-link.svg';
 import IconX from '@/assets/svgs/ic-x.svg';
 import styles from './ProductCarousel.module.scss';
-import rectangle from '@/assets/images/rectangle.png';
+import rectangleImg from '@/assets/images/rectangle.png';
 
 interface ProductCarouselProps {
   images: string;
@@ -23,7 +24,11 @@ export default function ProductCarousel({ images }: ProductCarouselProps) {
   const { modalOpen, handleModalOpen, handleModalClose } = useModal();
   const { selectedSnap, snapCount } = useSelectedSnapDisplay(emblaApi);
 
-  const items = images !== '' ? images.split(',') : [rectangle.src, rectangle.src];
+  const items = images !== '' ? images.split(',') : [rectangleImg.src, rectangleImg.src];
+
+  const handleImgError = (e: SyntheticEvent<HTMLImageElement, Event>) => {
+    e.currentTarget.src = rectangleImg.src;
+  };
 
   return (
     <>
@@ -38,6 +43,7 @@ export default function ProductCarousel({ images }: ProductCarouselProps) {
                 style={{ objectFit: 'cover' }}
                 sizes="(max-width: 430px) 100vw, 430px"
                 priority
+                onError={handleImgError}
               />
             </div>
           ))}
