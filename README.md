@@ -24,16 +24,24 @@
 <table>
   <tr>
     <td>
+      <a href="https://github.com/devwqc">
       <img src="https://github.com/Together-3team/petFrontend/assets/144193370/69f37032-43fc-4b90-b5c1-50b1d221804d" width="150px" height="15%"/>
+      </a>
     </td>
     <td>
+      <a href="https://github.com/q45402sk">
       <img src="https://github.com/Together-3team/petFrontend/assets/144193370/c3373bc6-0edb-4d44-832c-708412a9f82c" width="150px" height="15%"/>
+      </a>
     </td>
     <td>
+      <a href="https://github.com/minyoung0503">
       <img src="https://github.com/Together-3team/petFrontend/assets/144193370/2d575124-02b8-466b-b631-6db1dcbb91ab" width="150px" height="15%"/>
+      </a>
     </td>
     <td>
+      <a href="https://github.com/seolsis">
       <img src="https://github.com/Together-3team/petFrontend/assets/144193370/7ee39ec8-085a-4bd3-a476-780817f183a5" width="150px" height="15%"/>
+      </a>
     </td>
   </tr>
   <tr>
@@ -56,23 +64,29 @@
       </a>
     </td>
     <td align="center">
+      [FE]
         <a href="https://github.com/seolsis">
-          [FE]
         백지원
         </a>
       </td>
   </tr>
   <td>
+    <a href="https://github.com/Seoin02">
       <img src="https://github.com/Together-3team/petFrontend/assets/144193370/b02fb05d-18e6-405e-9d5d-a2df5e904dea" width="150px" height="15%"/>
+    </a>
     </td>
     <td>
       <img src="https://github.com/Together-3team/petFrontend/assets/144193370/e71be71c-9871-4e0e-9b01-d4d153b667ff" width="150px" height="15%"/>
     </td>
     <td>
+      <a href="https://github.com/go891017">
       <img src="https://github.com/Together-3team/petFrontend/assets/144193370/8d41e647-eeb0-4df6-9806-29cd56d9d3ca" width="150px" height="15%"/>
+      </a>
     </td>
     <td>
+      <a href="https://github.com/tmdwns1521">
       <img src="https://github.com/Together-3team/petFrontend/assets/144193370/a9482a03-a4e8-42d0-9da8-7cc049032e4c" width="150px" height="15%"/>
+      </a>
     </td>
     <tr>
     <td align="center">
@@ -151,10 +165,10 @@
 <table>
   <tr>
     <td>
-       <img src="https://github.com/Together-3team/petFrontend/assets/144193370/275796be-8193-4c6e-9d4e-58ad016ad611" width="450px" height=auto />
+       <img src="https://github.com/Together-3team/petFrontend/assets/144193370/275796be-8193-4c6e-9d4e-58ad016ad611" width="100%" height=auto />
     </td>
     <td>
-     <img src="https://github.com/Together-3team/petFrontend/assets/144193370/efd0a436-8b08-4a20-96b3-5ee984b7c0fc" width="450px" height=auto />
+     <img src="https://github.com/Together-3team/petFrontend/assets/144193370/efd0a436-8b08-4a20-96b3-5ee984b7c0fc" width="100%" height=auto />
     </td>
   </tr>
   <tr>
@@ -173,17 +187,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Together-3team/petFrontend/assets/144193370/01eee37f-da16-46cf-b2e8-9c7e34afb570" width="450px" height=auto />
+      <img src="https://github.com/Together-3team/petFrontend/assets/144193370/01eee37f-da16-46cf-b2e8-9c7e34afb570" width="100%" height=auto />
     </td>
     <td>
-      <img src="https://github.com/Together-3team/petFrontend/assets/144193370/d42c283d-370b-4f1b-bfa8-428befbf795b" width="450px" height=auto />
+      <img src="https://github.com/Together-3team/petFrontend/assets/144193370/d42c283d-370b-4f1b-bfa8-428befbf795b" width="100%" height=auto />
     </td>
   </tr>
   <tr>
     <td align="center">
       랜딩 페이지
       <br/>
-      맞춤 상품, 인기 상품을 볼 수 있고, 검색 기능을 이용할 수 있습니다.
+      맞춤·인기 상품 추천, 검색 기능을 이용할 수 있습니다.
     </td>
     <td align="center">
       제품 상세
@@ -195,17 +209,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/Together-3team/petFrontend/assets/144193370/c0996b0a-065f-46da-ab09-59c93b192cf7" width="450px" height=auto />
+      <img src="https://github.com/Together-3team/petFrontend/assets/144193370/c0996b0a-065f-46da-ab09-59c93b192cf7" width="100%" height=auto />
     </td>
     <td>
-      <img src="https://github.com/Together-3team/petFrontend/assets/144193370/d52ff92f-045b-4d3e-b284-29516adadf53" width="450px" height=auto />
+      <img src="https://github.com/Together-3team/petFrontend/assets/144193370/d52ff92f-045b-4d3e-b284-29516adadf53" width="100%" height=auto />
     </td>
   </tr>
   <tr>
        <td align="center">
       장바구니
          <br/>
-         상품을 담거나 삭제할 수 있고, 결제 예정 금액을 확인할 수 있습니다.
+         상품을 담거나 삭제하고, 결제 예정 금액을 확인할 수 있습니다.
     </td>
     <td align="center">
       찜
@@ -217,22 +231,22 @@
   <table>
   <tr>
     <td>
-      <img src="https://github.com/Together-3team/petFrontend/assets/144193370/d94249c2-3061-49d9-bc1d-f6aff8dff494" width="450px" height=auto />
+      <img src="https://github.com/Together-3team/petFrontend/assets/144193370/d94249c2-3061-49d9-bc1d-f6aff8dff494" width="100%" height=auto />
     </td>
     <td>
-      <img src="https://github.com/Together-3team/petFrontend/assets/144193370/2701564a-2a3c-4a3d-8b2c-ce2223eec83e" width="450px" height=auto />
+      <img src="https://github.com/Together-3team/petFrontend/assets/144193370/2701564a-2a3c-4a3d-8b2c-ce2223eec83e" width="100%" height=auto />
     </td>
   </tr>
   <tr>
        <td align="center">
       공동구매(웹소켓)
     <br/>
-         웹소켓을 사용해 공동구매 상황을 실시간으로 확인하고 참여할 수 있습니다.
+         웹소켓을 사용해 공동구매를 실시간 확인하고 참여할 수 있습니다.
     </td>
     <td align="center">
     결제
       <br/>
-      토스페이먼츠 API를 사용해서 테스트 결제를 할 수 있습니다.
+      토스페이먼츠 API를 사용해서 결제를 할 수 있습니다.
     </td>
   </tr>
 </table>  
